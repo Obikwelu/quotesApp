@@ -1,7 +1,6 @@
 # motivoapp
 
-A new Flutter project.
-
+A flutter quotes app
 ## Getting Started
 
 This project is a starting point for a Flutter application.
